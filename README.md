@@ -95,7 +95,7 @@ Superstore-PowerBI-Sales-Analysis/
 ├── powerbi/
 │ └── Superstore_Sales_Analysis.pbix
 │
-├── screenshots/
+├── Visuals/
 │ ├── dashboard_overview.png
 │ ├── sales_analysis.png
 │ └── data_model.png
